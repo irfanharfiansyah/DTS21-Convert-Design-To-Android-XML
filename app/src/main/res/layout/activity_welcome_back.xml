@@ -92,7 +92,8 @@
         app:layout_constraintTop_toBottomOf="@+id/etPassword"
         app:layout_constraintEnd_toEndOf="parent"
         android:fontFamily="@font/montserrat_semi_bold"
-        android:layout_marginRight="30dp">
+        android:layout_marginRight="30dp"
+        android:onClick="clickForgot">
     </TextView>
 
     <Button
@@ -106,7 +107,8 @@
         android:layout_marginHorizontal="24dp"
         android:layout_marginBottom="190dp"
         android:textColor="@color/white"
-        android:background="@drawable/button_red">
+        android:background="@drawable/button_red"
+        android:onClick="postLogin">
     </Button>
 
 
