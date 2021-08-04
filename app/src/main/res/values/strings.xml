@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DtsChapter03-starter</string>
+    <string name="logo_text">logo_text</string>
+    <string name="Welcome_text">What is goung to happen tomorrow ?</string>
+    <string name="text_login">Login</string>
+    <string name="get_started">Get Started</string>
+</resources>
